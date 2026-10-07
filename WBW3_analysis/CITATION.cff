@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this repository."
+title: "AI-Guided Discovery of Phage-Derived Lytic Enzymes from Global Viromes: WBW3 analysis code"
+authors:
+  - name: "YYL"
+    affiliation: "CMU"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.XXXXXXX   # add the Zenodo DOI after archiving
+license: MIT
+# version: 1.0.0
+# date-released: 2026-XX-XX

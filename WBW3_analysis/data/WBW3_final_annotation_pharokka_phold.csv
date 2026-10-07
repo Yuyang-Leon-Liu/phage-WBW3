@@ -1,0 +1,84 @@
+cds_id,start,end,strand,length_aa,final_function,final_product,annotation_confidence,fident,qCov
+QRODVJKP_CDS_0001,1,1566,+,521,head and packaging,terminase large subunit,high,0.915,1.0
+QRODVJKP_CDS_0002,1615,2883,+,422,head and packaging,portal protein,high,0.931,1.0
+QRODVJKP_CDS_0003,2852,3568,+,238,head and packaging,head morphogenesis,high,0.865,1.0
+QRODVJKP_CDS_0004,3581,4672,+,363,head and packaging,head maturation protease,high,0.911,0.99
+QRODVJKP_CDS_0005,4684,5193,+,169,head and packaging,virion structural protein,high,0.84,0.99
+QRODVJKP_CDS_0006,5305,5442,+,45,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0007,5486,6376,+,296,head and packaging,major head protein,high,0.912,1.0
+QRODVJKP_CDS_0008,6468,6713,+,81,head and packaging,prohead,high,0.962,0.99
+QRODVJKP_CDS_0009,6755,7156,+,133,head and packaging,virion structural protein,high,0.902,0.99
+QRODVJKP_CDS_0010,7340,7954,+,204,connector,tail completion or Neck1 protein,medium,0.888,0.7
+QRODVJKP_CDS_0011,7944,8345,+,133,connector,tail terminator,high,0.917,0.99
+QRODVJKP_CDS_0012,8354,8833,+,159,"DNA, RNA and nucleotide metabolism",HNH endonuclease,high,0.675,0.99
+QRODVJKP_CDS_0013,8987,9520,+,177,tail,major tail protein,high,0.937,0.99
+QRODVJKP_CDS_0014,9631,9879,+,82,unknown function,hypothetical protein,pharokka,,
+QRODVJKP_CDS_0015,9918,10232,+,104,tail,tail length tape measure protein,high,0.961,0.99
+QRODVJKP_CDS_0016,10295,10552,+,85,tail,tail length tape measure protein,high,0.964,0.98
+QRODVJKP_CDS_0017,10588,13653,+,1021,tail,tail length tape measure protein,high,0.695,1.0
+QRODVJKP_CDS_0018,13685,14035,+,116,tail,minor tail protein,high,0.931,0.99
+QRODVJKP_CDS_0019,14075,14839,+,254,tail,minor tail protein,high,0.905,0.99
+QRODVJKP_CDS_0020,14861,15685,+,274,tail,minor tail protein,high,0.887,0.9
+QRODVJKP_CDS_0021,15666,16232,+,188,tail,tail assembly protein,high,0.92,0.99
+QRODVJKP_CDS_0022,16313,19768,+,1151,tail,central tail fiber J,high,0.769,0.99
+QRODVJKP_CDS_0023,19816,20124,+,102,other,outer membrane protein,high,0.656,0.99
+QRODVJKP_CDS_0024,20124,20816,+,230,"moron, auxiliary metabolic gene and host takeover",membrane associated protein,low,0.625,0.79
+QRODVJKP_CDS_0025,21059,20838,-,73,"moron, auxiliary metabolic gene and host takeover",Cor superinfection exclusion protein,pharokka,,
+QRODVJKP_CDS_0026,21174,21070,-,34,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0027,21884,21249,-,211,transcription regulation,anti-repressor,high,0.734,0.95
+QRODVJKP_CDS_0029,22187,22294,+,35,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0028,22222,21884,-,112,transcription regulation,transcriptional repressor,low,0.208,0.62
+QRODVJKP_CDS_0030,22360,22458,+,32,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0031,22472,23101,+,209,unknown function,hypothetical protein,medium,0.714,0.56
+QRODVJKP_CDS_0032,23105,24070,+,321,"DNA, RNA and nucleotide metabolism",exonuclease VIII,high,0.915,0.99
+QRODVJKP_CDS_0033,24144,24794,+,216,"DNA, RNA and nucleotide metabolism",Erf-like ssDNA annealing protein,high,0.93,1.0
+QRODVJKP_CDS_0034,24837,25259,+,140,"DNA, RNA and nucleotide metabolism",single strand DNA binding protein,high,0.878,0.99
+QRODVJKP_CDS_0035,27613,25289,-,774,tail,tail protein,high,0.318,1.0
+QRODVJKP_CDS_0036,28624,27701,-,307,"DNA, RNA and nucleotide metabolism",DNA primase,high,0.7,0.99
+QRODVJKP_CDS_0037,28725,28621,-,34,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0038,29145,28771,-,124,"DNA, RNA and nucleotide metabolism",HNH endonuclease,medium,0.365,0.98
+QRODVJKP_CDS_0039,29694,29212,-,160,transcription regulation,transcriptional regulator,high,0.91,0.97
+QRODVJKP_CDS_0040,29796,31790,+,664,"DNA, RNA and nucleotide metabolism",DNA helicase,high,0.819,0.98
+QRODVJKP_CDS_0041,31792,32211,+,139,"DNA, RNA and nucleotide metabolism",nuclease,high,0.834,0.99
+QRODVJKP_CDS_0042,32240,32479,+,79,unknown function,hypothetical protein,low,0.879,0.72
+QRODVJKP_CDS_0043,32495,32716,+,73,unknown function,hypothetical protein,high,0.8,0.95
+QRODVJKP_CDS_0044,32716,32841,+,41,unknown function,hypothetical protein,high,0.951,0.98
+QRODVJKP_CDS_0045,32838,33086,+,82,unknown function,hypothetical protein,high,0.779,0.82
+QRODVJKP_CDS_0046,33089,33340,+,83,unknown function,hypothetical protein,high,0.767,0.87
+QRODVJKP_CDS_0047,33424,34560,+,378,"DNA, RNA and nucleotide metabolism",DNA repair exonuclease,high,0.949,1.0
+QRODVJKP_CDS_0048,34632,35123,+,163,"DNA, RNA and nucleotide metabolism",HNH endonuclease,high,0.846,0.99
+QRODVJKP_CDS_0049,35205,35381,+,58,"moron, auxiliary metabolic gene and host takeover",glycosyltransferase,high,0.948,0.98
+QRODVJKP_CDS_0050,35514,35729,+,71,lysis,holin,pharokka,,
+QRODVJKP_CDS_0051,35730,36215,+,161,lysis,endolysin,high,0.919,0.99
+QRODVJKP_CDS_0052,36191,36580,+,129,lysis,Rz-like spanin,high,0.82,0.98
+QRODVJKP_CDS_0053,36762,36595,-,55,unknown function,hypothetical protein,pharokka,,
+QRODVJKP_CDS_0054,36934,36845,-,29,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0055,38517,36934,-,527,"DNA, RNA and nucleotide metabolism",DNA helicase,high,0.922,1.0
+QRODVJKP_CDS_0056,39086,38589,-,165,"DNA, RNA and nucleotide metabolism",HNH endonuclease,high,0.49,0.99
+QRODVJKP_CDS_0057,39436,39083,-,117,unknown function,hypothetical protein,high,0.635,0.99
+QRODVJKP_CDS_0058,40193,39519,-,224,other,DNA methyltransferase,high,0.883,1.0
+QRODVJKP_CDS_0059,40347,40165,-,60,unknown function,hypothetical protein,pharokka,,
+QRODVJKP_CDS_0060,40586,40347,-,79,unknown function,hypothetical protein,high,0.772,0.99
+QRODVJKP_CDS_0061,40785,40588,-,65,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0062,40975,40796,-,59,unknown function,hypothetical protein,high,0.796,0.98
+QRODVJKP_CDS_0063,41159,40968,-,63,unknown function,hypothetical protein,high,0.555,0.98
+QRODVJKP_CDS_0064,41463,41278,-,61,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0065,41637,41512,-,41,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0066,41642,41818,+,58,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0067,41837,42316,+,159,unknown function,hypothetical protein,high,0.745,0.99
+QRODVJKP_CDS_0068,42316,42591,+,91,unknown function,hypothetical protein,pharokka,,
+QRODVJKP_CDS_0069,42668,42898,+,76,other,nucleotide kinase,high,0.973,0.97
+QRODVJKP_CDS_0070,42895,43080,+,61,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0071,43067,43285,+,72,unknown function,hypothetical protein,pharokka,,
+QRODVJKP_CDS_0072,43282,43431,+,49,unknown function,hypothetical protein,pharokka,,
+QRODVJKP_CDS_0073,43503,43793,+,96,unknown function,hypothetical protein,high,0.69,0.99
+QRODVJKP_CDS_0074,43884,44096,+,70,unknown function,hypothetical protein,high,0.742,0.99
+QRODVJKP_CDS_0075,44093,44272,+,59,unknown function,hypothetical protein,high,0.862,0.97
+QRODVJKP_CDS_0076,44322,44483,+,53,unknown function,hypothetical protein,high,0.537,0.98
+QRODVJKP_CDS_0077,44483,44608,+,41,unknown function,hypothetical protein,high,0.775,0.95
+QRODVJKP_CDS_0078,44605,44748,+,47,unknown function,hypothetical protein,pharokka,,
+QRODVJKP_CDS_0079,44819,45058,+,79,unknown function,hypothetical protein,high,0.645,0.99
+QRODVJKP_CDS_0080,45377,45156,-,73,unknown function,hypothetical protein,none,,
+QRODVJKP_CDS_0081,45488,45673,+,61,unknown function,hypothetical protein,high,0.868,0.98
+QRODVJKP_CDS_0082,45660,45857,+,65,unknown function,hypothetical protein,medium,0.92,0.95
+QRODVJKP_CDS_0083,45969,46475,+,168,head and packaging,terminase small subunit,high,0.934,0.99

@@ -1,0 +1,77 @@
+ORF,start,stop,protein_length_aa,strand,predicted_function,related_protein,related_accession,evalue,known_function
+ORF1,1,939,312,+,Major capsid protein,major capsid protein [Escherichia phage JulesPiccard]（QXV81838.1）,QXV81838.1,0,True
+ORF2,1031,1276,81,+,Unknown,hypothetical protein bas03_0012 [Escherichia phage JulesPiccard]（QXV81839.1）,QXV81839.1,3.00E-49,False
+ORF3,1318,1719,133,+,Unknown,Halo29 [Escherichia phage RES-2009a]（ACZ74599.1）,ACZ74599.1,2.00E-89,False
+ORF4,1716,2087,123,+,Unknown,hypothetical protein [Escherichia phage 2725-N35]（QHJ72667.1）,QHJ72667.1,2.00E-80,False
+ORF5,2080,2517,145,+,Unknown,hypothetical protein bas02_0011 [Escherichia phage JeanPiccard]（QXV80777.1）,QXV80777.1,2.00E-97,False
+ORF6,2507,2908,133,+,Unknown,hypothetical protein HOR61_gp46 [Escherichia phage vB_EcoS-IME253]（YP_009789211.1）,YP_009789211.1,9.00E-89,False
+ORF7,2917,3396,160,+,Endonuclease,gp45 [Escherichia phage phiEB49]（YP_009018659.1）,YP_009018659.1,1.00E-68,True
+ORF8,3550,4083,218,+,Major tail protein,major tail protein [Escherichia phage JeanPiccard]（QXV80779.1）,QXV80779.1,8.00E-115,True
+ORF9,4194,4442,82,+,Unknown,hypothetical protein H1N77_gp16 [Escherichia phage vB_EcoS-12210I]（YP_009900836.1）,YP_009900836.1,6.00E-48,False
+ORF10,4481,4795,104,+,Unknown,hypothetical protein HOR61_gp49 [Escherichia phage vB_EcoS-IME253]（YP_009789214.1）,YP_009789214.1,1.00E-67,False
+ORF11,4804,5115,103,+,Unknown,hypothetical protein FP_0031 [Escherichia phage vB_EcoS_FP]（QLF80584.1）,QLF80584.1,3.00E-69,False
+ORF12,5151,8216,991,+,Tail tape measure protein,hypothetical protein H1N77_gp13 [Escherichia phage vB_EcoS-12210I]（YP_009900833.1）,YP_009900833.1,0,True
+ORF13,8248,8598,116,+,Tail protein,tail protein [Escherichia phage vB_EcoS_AKS96]（YP_009056074.1）,YP_009056074.1,5.00E-75,True
+ORF14,8638,9402,254,+,Minor tail protein,minor tail protein L [Escherichia phage vB_EcoS_AKS96]（YP_009056075.1）,YP_009056075.1,0,True
+ORF15,9424,10248,248,+,Peptidase,[Escherichia phage vB_EcoS_AHS24]（YP_009055363.1）,YP_009055363.1,1.00E-174,True
+ORF16,10229,10795,191,+,Tail assembly protein,putative tail assembly protein I [Escherichia phage e4/1c]（YP_009036024.1）,YP_009036024.1,2.00E-97,True
+ORF17,10876,14331,1169,+,Tail fiber protein,J-like tail tip protein [Escherichia phage AugustePiccard]（QXV76158.1）,QXV76158.1,0,True
+ORF18,14379,14687,101,+,Unknown,hypothetical protein [Escherichia virus T1]（QEG04366.1）,QEG04366.1,8.00E-36,False
+ORF19,14687,15379,229,+,Unknown,hypothetical protein FDG90_gp47 [Escherichia phage JMPW2]（YP_009594178.1）,YP_009594178.1,1.00E-119,False
+ORF20,15622,15401,73,-,Superinfection exclusion lipoprotein,superinfection exclusion lipoprotein [Escherichia phage JulesPiccard]（QXV81858.1）,QXV81858.1,3.00E-45,True
+ORF21,16447,15812,253,-,DNA-binding protein,regulatory protein Rha [Escherichia phage vB_EcoS_ESCO41]（YP_009789956.1）,YP_009789956.1,2.00E-98,True
+ORF22,16785,16447,,-,None,,,,True
+ORF23,17242,17664,115,+,Unknown,hypothetical protein bas01_0034 [Escherichia phage AugustePiccard]（QXV76165.1）,QXV76165.1,1.00E-59,False
+ORF24,17668,18633,321,+,Exodeoxyribonuclease VIII,putative exodeoxyribonuclease VIII [Escherichia phage AugustePiccard]（QXV76166.1）,QXV76166.1,0,True
+ORF25,18707,19357,216,+,Recombinase,ERF family protein [Escherichia phage DTL]（YP_009795740.1）,YP_009795740.1,2.00E-152,True
+ORF26,19400,19822,145,+,ssDNA binding protein,ssDNA binding protein [Escherichia phage vB_EcoD_SU57]（QLF84983.1）,QLF84983.1,2.00E-75,True
+ORF27,22176,19852,790,-,Unknown,hypothetical protein A1U5_02944 [Escherichia coli KTE66]（ELE43433.1）,ELE43433.1,0,False
+ORF28,23151,22264,308,-,DNA primase,putative DNA primase [Escherichia phage vB_EcoS_ACG-M12]（YP_006987867.1）,YP_006987867.1,4.00E-171,True
+ORF29,23708,23334,164,-,Endonuclease,endonuclease [Escherichia phage C119]（YP_009615862.1）,YP_009615862.1,8.00E-21,True
+ORF30,24257,23775,157,-,Transcriptional regulator,transcriptional regulator [Escherichia phage vB_EcoS_CEB_EC3a]（YP_009789343.1）,YP_009789343.1,1.00E-101,True
+ORF31,24359,26353,664,+,Helicase,ATP-dependent helicase [Escherichia phage vB_EcoD_SU57]（QLF84980.1）,QLF84980.1,0,True
+ORF32,26355,26774,139,+,Unknown,hypothetical protein bas01_0043 [Escherichia phage AugustePiccard]（QXV76174.1）,QXV76174.1,4.00E-91,False
+ORF33,26803,27042,80,+,Unknown,hypothetical protein bas03_0043 [Escherichia phage JulesPiccard]（QXV81870.1）,QXV81870.1,2.00E-39,False
+ORF34,27058,27279,72,+,Unknown,hypothetical protein BECP10_00028 [Escherichia phage vB_EcoS-BECP10]（QQM15517.1）,QQM15517.1,3.00E-37,False
+ORF35,27279,27404,41,+,Unknown,hypothetical protein FP_0053 [Escherichia phage vB_EcoS_FP]（QLF80612.1）,QLF80612.1,1.00E-19,False
+ORF36,27401,27649,82,+,Unknown,hypothetical protein D861_gp20 [Escherichia phage vB_EcoS_ACG-M12]（YP_006987877.1）,YP_006987877.1,1.00E-49,False
+ORF37,27652,27903,83,+,Unknown,hypothetical protein [Escherichia phage 2725-N35]（QHJ72707.1）,QHJ72707.1,4.00E-51,False
+ORF38,27987,29123,378,+,Unknown,hypothetical protein MM01_00054 [Escherichia phage vB_EcoS_MM01]（QBQ80889.1）,QBQ80889.1,0,False
+ORF39,29195,29686,164,+,Endonuclease,putative HNH endonuclease [Escherichia phage vB_EcoS_ACG-M12]（YP_006987880.1）,YP_006987880.1,8.00E-103,True
+ORF40,29768,29944,58,+,Unknown,hypothetical protein D861_gp14 [Escherichia phage vB_EcoS_ACG-M12]（YP_006987883.1）,YP_006987883.1,3.00E-33,False
+ORF41,30077,30292,71,+,Holin,putative holin [Escherichia phage DTL]（YP_009795695.1）,YP_009795695.1,1.00E-17,True
+ORF42,30293,30778,161,+,Lysozyme,lysozyme [Escherichia phage vB_EcoS-12210I]（YP_009900871.1）,YP_009900871.1,2.00E-75,True
+ORF43,30754,31143,129,+,Unknown,putative membrane protein [Escherichia phage 2725-N35]（QHJ72702.1）,QHJ72702.1,2.00E-37,False
+ORF44,31325,31158,111,-,Unknown,hypothetical protein HOS46_gp08 [Escherichia phage DTL]（YP_009795698.1）,YP_009795698.1,1.00E-29,False
+ORF45,31497,31408,111,-,Unknown,hypothetical protein bas02_0052 [Escherichia phage JeanPiccard]（QXV80818.1）,QXV80818.1,3.00E-10,False
+ORF46,33080,31497,527,-,Helicase,putative helicase [Escherichia phage JeanPiccard]（QXV80819.1）,QXV80819.1,0,True
+ORF47,33649,33152,158,-,Endonuclease,HNH homing endonuclease [Escherichia phage vB_EcoS_SP8]（QLF80498.1）,QLF80498.1,3.00E-46,True
+ORF48,33999,33646,117,-,Unknown,hypothetical protein [Escherichia phage vB_EcoD_SU57]（QLF85007.1）,QLF85007.1,7.00E-57,False
+ORF49,34756,34082,222,-,Unknown,hypothetical protein CJ19_070 [Escherichia phage CJ19]（QIW88929.1）,QIW88929.1,7.00E-137,False
+ORF50,35149,34910,79,-,Unknown,hypothetical protein [Escherichia phage 2725-N35]（QHJ72694.1）,QHJ72694.1,5.00E-46,False
+ORF51,35348,35151,66,-,Unknown,hypothetical protein [Escherichia phage vB_EcoD_SU57]（QLF85004.1）,QLF85004.1,6.00E-25,False
+ORF52,35538,35359,59,-,Unknown,hypothetical protein D861_gp03 [Escherichia phage vB_EcoS_ACG-M12]（YP_006987894.1）,YP_006987894.1,2.00E-29,False
+ORF53,35722,35531,75,-,Unknown,hypothetical protein [Escherichia phage 2725-N35]（QHJ72692.1）,QHJ72692.1,6.00E-20,False
+ORF54,36400,36879,159,+,Unknown,hypothetical protein bas01_0065 [Escherichia phage AugustePiccard]（QXV76196.1）,QXV76196.1,4.00E-77,False
+ORF55,36879,37154,140,+,Unknown,hypothetical protein H1N77_gp55 [Escherichia phage vB_EcoS-12210I]（YP_009900861.1）,YP_009900861.1,1.00E-27,False
+ORF56,37231,37461,76,+,Unknown,hypothetical protein HOR61_gp22 [Escherichia phage vB_EcoS-IME253]（YP_009789187.1）,YP_009789187.1,4.00E-48,False
+ORF57,37458,37643,56,+,Unknown,hypothetical protein HOR61_gp23 [Escherichia phage vB_EcoS-IME253]（YP_009789188.1）,YP_009789188.1,4.00E-30,False
+ORF58,37630,37848,72,+,Unknown,hypothetical protein bas01_0070 [Escherichia phage AugustePiccard]（QXV76201.1）,QXV76201.1,4.00E-30,False
+ORF59,37845,37994,47,+,Unknown,hypothetical protein [Escherichia phage vB_EcoD_SU57]（QLF85040.1）,QLF85040.1,1.00E-14,False
+ORF60,38066,38356,96,+,Unknown,hypothetical protein rtp10 [Escherichia virus Rtp]（YP_398954.1）,YP_398954.1,5.00E-53,False
+ORF61,38447,38659,70,+,Unknown,hypothetical protein CJ19_044 [Escherichia phage CJ19]（QIW88903.1）,QIW88903.1,2.00E-34,False
+ORF62,38656,38835,59,+,Unknown,hypothetical protein FP_0006 [Escherichia phage vB_EcoS_FP]（QLF80604.1）,QLF80604.1,2.00E-34,False
+ORF63,38885,39046,53,+,Unknown,hypothetical protein [Escherichia phage vB_EcoD_SU57]（QLF85038.1）,QLF85038.1,1.00E-26,False
+ORF64,39046,39171,41,+,Unknown,hypothetical protein FP_0008 [Escherichia phage vB_EcoS_FP]（QLF80611.1）,QLF80611.1,1.00E-18,False
+ORF65,39168,39311,47,+,Unknown,hypothetical protein bas01_0074 [Escherichia phage AugustePiccard]（QXV76205.1）,QXV76205.1,9.00E-25,False
+ORF66,39382,39621,79,+,Unknown,hypothetical protein bas02_0076 [Escherichia phage JeanPiccard]（QXV80842.1）,QXV80842.1,3.00E-49,False
+ORF67,39940,39719,,-,None,,,,True
+ORF68,40051,40236,61,+,Unknown,hypothetical protein rtp16 [Escherichia virus Rtp]（YP_398960.1）,YP_398960.1,1.00E-30,False
+ORF69,40223,40420,86,+,Unknown,hypothetical protein HOS46_gp22 [Escherichia phage DTL]（YP_009795712.1）,YP_009795712.1,2.00E-35,False
+ORF70,40532,41038,168,+,Terminase small subunit,terminase small subunit [Escherichia phage AugustePiccard]（QXV76132.1）,QXV76132.1,5.00E-118,True
+ORF71,41056,42621,521,+,Terminase large subunit,terminase large subunit [Escherichia phage vB_EcoS-IME253]（YP_009789200.1）,YP_009789200.1,0,True
+ORF72,42670,43938,422,+,Portal protein,DUF1073 domain-containing protein [Escherichia phage vB_EcoS-12210I]（YP_009900847.1）,YP_009900847.1,0,True
+ORF73,43895,44623,242,+,Capsid and scaffold protein,capsid and scaffold protein [Escherichia phage vB_EcoS-IME253]（YP_009789203.1）,YP_009789203.1,1.00E-156,True
+ORF74,44636,45727,363,+,Prohead protease,prohead protease [Escherichia phage JeanPiccard]（QXV80771.1）,QXV80771.1,0,True
+ORF75,45739,46248,169,+,Unknown,hypothetical protein D861_gp60 [Escherichia phage vB_EcoS_ACG-M12]（YP_006987837.1）,YP_006987837.1,2.00E-89,False
+ORF76,46360,46491,314,,Major capsid protein,major capsid protein [Escherichia phage JeanPiccard]（QXV80773.1）,QXV80773.1,1.00E-20,True
